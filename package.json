@@ -1,0 +1,9 @@
+{
+  "type":"module",
+  "scripts": {
+    "dev":"node src/bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  }
+}
